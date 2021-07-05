@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 
 h1{
@@ -8,14 +9,11 @@ h1{
     padding-top: 20%;
 }
 
-#background-image-one{
-
-
-
-
-
-
+h2{
+    font-size: 40px;
+    padding-top: 40px;
 }
+
     
 .color-of-skip{
     color: orange;
@@ -31,8 +29,14 @@ h1{
     padding-left: 5%;
 }
 
+
 .margin{
-    margin-bottom: 50px;
+    margin-bottom: 60px;
+    
+}
+
+.padding-right{
+    padding-right: 180px;
 }
 
 .link-button{
@@ -43,5 +47,16 @@ h1{
     padding: 10px 20px;
     border-radius: 20px;
     margin-top: 30px;
+}
+
+
+#lady3-png{
+    padding-left: 5%;
+}
+
+#background-image-two{
+    background-image: url(images/shapes/7.png);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
