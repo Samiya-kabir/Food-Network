@@ -1,0 +1,47 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+    font-weight: 900;
+    padding-top: 20%;
+}
+
+#background-image-one{
+
+
+
+
+
+
+}
+    
+.color-of-skip{
+    color: orange;
+}
+
+.flexible-container{
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+
+.margin{
+    margin-bottom: 50px;
+}
+
+.link-button{
+    text-decoration: none;
+    color: white;
+    font-weight:  700;
+    background-image: linear-gradient(orange, orangered);
+    padding: 10px 20px;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+
