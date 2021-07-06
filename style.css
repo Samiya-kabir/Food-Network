@@ -50,6 +50,8 @@ h2{
 }
 
 
+
+
 #lady3-png{
     padding-left: 5%;
 }
@@ -60,3 +62,20 @@ h2{
     background-repeat: no-repeat;
 }
 
+
+.my-recipies{
+    text-align: center;
+}
+
+.onethird-width{
+    width: 25%;
+    padding: 10px;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10%;
+}
+
+.onethird-width img{
+    width: 100%;
+} 
