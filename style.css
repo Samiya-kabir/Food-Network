@@ -60,7 +60,7 @@ ul li a{
     padding: 0 20px;
 }
     
-.color-of-skip{
+.color-orange{
     color: orange;
 }
 
@@ -68,6 +68,8 @@ ul li a{
     display: flex;
     margin-bottom: 150px;
 }
+
+
 
 .half-width{
     width: 50%;
@@ -110,7 +112,7 @@ ul li a{
 }
 
 
-.my-recipies{
+.my-recipes{
     text-align: center;
 }
 
@@ -126,3 +128,19 @@ ul li a{
 .onethird-width img{
     width: 100%;
 } 
+
+
+.color-gray{
+    color: gray;
+    
+}
+
+.style-footer{
+    background-color: black;
+    
+}
+
+.style-footer p{
+    color: white;
+    padding-bottom: 5%;
+}
